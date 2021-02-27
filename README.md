@@ -1,7 +1,6 @@
 # sqlalchemy-challenge
 
-## Below are the guidelines provided by the instructor for this assignment. The analysis shows that the station with the highest TOBS (temperature observations) was Station USC00519281. The corresponding charts and dataframes for this project are located within the included jupyter notebook (climate_starter.ipynb). The included app.py includes the code for Step 2 (Flask Routes) of the assignment and the included Resources folder contains the .csv and .sqlite files related to this assinment. 
-Please Note: there were challenges with getting the JSON to work and those challenges were unfortunately not resolved by the assignment deadline. Updates to that section will need to be added at a later date. 
+Below are the guidelines provided by the instructor for this assignment. The analysis shows that the station with the highest TOBS (temperature observations) was Station USC00519281. The corresponding charts and dataframes for this project are located within the included jupyter notebook (climate_starter.ipynb). The included app.py includes the code for Step 2 (Flask Routes) of the assignment and the included Resources folder contains the .csv and .sqlite files related to this assinment. Please Note: there were challenges with getting the JSON to work and those challenges were unfortunately not resolved by the assignment deadline. Updates to that section will need to be added at a later date. 
 
 ### Step 1 - Climate Analysis and Exploration
 
